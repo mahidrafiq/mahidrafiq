@@ -1,0 +1,48 @@
+{
+  "brand": "Mahid Rafiq",
+  "tagline": "Ideas for a Healthier Tomorrow",
+  "palette": [
+    {
+      "name": "Deep Space",
+      "hex": "#0B0F12",
+      "role": "Primary background"
+    },
+    {
+      "name": "Forest Green",
+      "hex": "#0F4D3A",
+      "role": "Support colour; use sparingly"
+    },
+    {
+      "name": "Voltage Lime",
+      "hex": "#A6FF3D",
+      "role": "Accent; highlights and separators"
+    },
+    {
+      "name": "Technical Slate",
+      "hex": "#687280",
+      "role": "Secondary UI and neutral elements"
+    },
+    {
+      "name": "Soft Ivory",
+      "hex": "#F5F7F2",
+      "role": "Light background and text on dark"
+    },
+    {
+      "name": "Silver",
+      "hex": "#C7CCD3",
+      "role": "Logo finish and metallic applications"
+    }
+  ],
+  "typography": {
+    "headings": "Space Grotesk",
+    "body": "Inter"
+  },
+  "logo_rules": [
+    "Use the horizontal combination logo as the default professional lockup.",
+    "Use the MR orbital lettermark for app icons and social avatars.",
+    "Keep the master logo monochrome silver/ivory or deep-space black.",
+    "Use Voltage Lime as a small accent; do not recolour every logo element.",
+    "Use the simplified favicon at 16–32 px; the orbital detail may not survive at tiny sizes.",
+    "Do not stretch, rotate, add extra shadows, or place the dark logo on a dark background."
+  ]
+}
