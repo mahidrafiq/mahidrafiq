@@ -1,1 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="940" height="650" viewBox="0 0 940 650" role="img"><ellipse cx="470" cy="325" rx="360" ry="76" transform="rotate(-27 470 325)" fill="none" stroke="#C7CCD3" stroke-width="12"/><circle cx="790" cy="162" r="24" fill="#C7CCD3"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="650" viewBox="0 0 940 650" role="img"><defs>
+ <linearGradient id="metal" x1="0" y1="0" x2="0.95" y2="1">
+  <stop offset="0%" stop-color="#FFFFFF"/>
+  <stop offset="22%" stop-color="#C8CDD4"/>
+  <stop offset="43%" stop-color="#F8FAFC"/>
+  <stop offset="65%" stop-color="#8B929C"/>
+  <stop offset="84%" stop-color="#E5E8ED"/>
+  <stop offset="100%" stop-color="#FFFFFF"/>
+ </linearGradient>
+ <linearGradient id="metal-dark" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#121720"/>
+  <stop offset="35%" stop-color="#687280"/>
+  <stop offset="62%" stop-color="#0B0F12"/>
+  <stop offset="100%" stop-color="#3B424C"/>
+ </linearGradient>
+ <linearGradient id="orbit-metal" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#8C949F"/>
+  <stop offset="45%" stop-color="#FFFFFF"/>
+  <stop offset="72%" stop-color="#B5BCC5"/>
+  <stop offset="100%" stop-color="#F5F7F2"/>
+ </linearGradient>
+ <radialGradient id="sphere-metal" cx="32%" cy="25%" r="80%">
+  <stop offset="0%" stop-color="#FFFFFF"/>
+  <stop offset="48%" stop-color="#BFC5CD"/>
+  <stop offset="100%" stop-color="#555D67"/>
+ </radialGradient>
+ </defs><ellipse cx="470" cy="325" rx="360" ry="76" transform="rotate(-27 470 325)" fill="none" stroke="url(#orbit-metal)" stroke-width="12"/><circle cx="790" cy="162" r="24" fill="url(#sphere-metal)"/></svg>
