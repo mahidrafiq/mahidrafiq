@@ -4,7 +4,7 @@
 
 **Engineer the Essential**
 
-A concise statement of a builder's mindset: focus on real problems, engineer useful solutions, and keep the work purposeful. It is broad enough to grow across technology, science, healthcare, AI, automation, and entrepreneurship.
+A concise statement of the brand's builder mindset: focus on real problems, engineer useful solutions, and keep the work purposeful. The line is intentionally broad enough to grow across technology, science, healthcare, AI, automation, and entrepreneurship.
 
 ## Palette
 
@@ -24,17 +24,19 @@ A concise statement of a builder's mindset: focus on real problems, engineer use
 
 ## Which version should I use?
 
-- Portfolio header / professional banner: primary horizontal logo.
-- GitHub avatar / social profile: MR app icon or lettermark.
-- Tiny browser tab icon: simplified favicon.
-- Light surfaces: dark mark; dark surfaces: white/silver mark.
-- Print: use a one-colour mark and check minimum stroke reproduction with the printer.
+- Portfolio header / professional banner: `primary_horizontal_dark.svg` or its light equivalent.
+- GitHub avatar / social profile: `app_icon_dark.svg` or the corresponding PNG export.
+- Tiny browser tab icon: `favicon.svg`.
+- Light surfaces: use a dark mark; dark surfaces: use the white/silver mark.
+- Print: choose a one-colour variant and check minimum stroke reproduction with the printer.
+- Posters and cinematic motion: metallic/silver treatments can be used, but the everyday logo should stay crisp and high-contrast.
 
 ## Usage rules
 
-- Keep the orbital MR mark and tagline as distinct levels of the lockup; do not let the orbit cross into the text area.
+- Keep the orbital MR mark and the tagline as distinct levels of the lockup; do not let the orbit cross into the text area.
 - Preserve clear space around the mark.
 - Do not stretch, rotate, add shadows, or place a logo on a low-contrast surface.
-- Keep Voltage Lime as a restrained accent rather than a dominant logo fill.
-- Use the full orbital mark for large applications; switch to the simplified favicon at 16–32 px.
-- Use the tagline exactly as **Engineer the Essential**; visual lockups may set it in uppercase.
+- Keep Voltage Lime as an accent rather than a dominant logo fill.
+- Use the full orbital mark for large applications; switch to the simplified favicon for 16–32 px contexts.
+
+The tagline is written **Engineer the Essential** in copy and appears in uppercase in some visual lockups for typographic consistency.
