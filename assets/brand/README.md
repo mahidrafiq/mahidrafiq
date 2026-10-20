@@ -9,7 +9,7 @@ A technology-forward personal identity built around the monochrome MR orbital ma
 - `svg/` — scalable, editable logo variants and masters.
 - `png/` — ready-to-use raster exports, social avatars, app icons, favicon sizes, and emblem variants.
 - `guidelines/` — palette, typography, and logo-use notes.
-- `preview/brand_asset_variants_board.png` — contact sheet of the revised brand assets.
+- `preview/brand_asset_variants_board.png` — a current contact sheet of the revised brand assets.
 - `motion/` — animated logo ad, preview GIF, and poster frame.
 
 ## Core lockups
@@ -51,4 +51,4 @@ Do not stretch, rotate, add effects to, or place a low-contrast logo on its back
 - Stacked lockups (dark, light, transparent): mark centred over the name and spacing tightened (SVG + PNG).
 - Emblem (dark, light): name and tagline moved inside the ring so they no longer touch it (SVG + PNG).
 - Forest app icon: removed the stray lime dot (SVG + PNG 64–1024).
-- Note: motion previews are presentation effects; use the crisp SVG masters for everyday digital placement.
+- Not changed: logo text is still live text in the SVGs (outline it with Space Grotesk / Inter before final handoff); the motion files still show a hard-edged glow box behind the mark.
