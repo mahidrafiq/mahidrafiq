@@ -1,21 +1,21 @@
 {
   "brand": "Mahid Rafiq",
-  "tagline": "Ideas for a Healthier Tomorrow",
+  "tagline": "Engineer the Essential",
   "palette": [
     {
       "name": "Deep Space",
       "hex": "#0B0F12",
-      "role": "Primary background"
+      "role": "Primary dark background"
     },
     {
       "name": "Forest Green",
       "hex": "#0F4D3A",
-      "role": "Support colour; use sparingly"
+      "role": "Restrained support colour"
     },
     {
       "name": "Voltage Lime",
       "hex": "#A6FF3D",
-      "role": "Accent; highlights and separators"
+      "role": "Accent for highlights and separators"
     },
     {
       "name": "Technical Slate",
@@ -25,7 +25,7 @@
     {
       "name": "Soft Ivory",
       "hex": "#F5F7F2",
-      "role": "Light background and text on dark"
+      "role": "Light background and reversed text"
     },
     {
       "name": "Silver",
@@ -41,8 +41,9 @@
     "Use the horizontal combination logo as the default professional lockup.",
     "Use the MR orbital lettermark for app icons and social avatars.",
     "Keep the master logo monochrome silver/ivory or deep-space black.",
-    "Use Voltage Lime as a small accent; do not recolour every logo element.",
+    "Use Voltage Lime as a restrained accent; do not recolour every logo element.",
     "Use the simplified favicon at 16–32 px; the orbital detail may not survive at tiny sizes.",
-    "Do not stretch, rotate, add extra shadows, or place the dark logo on a dark background."
+    "Do not stretch, rotate, add extra shadows, or place the dark logo on a dark background.",
+    "The approved tagline is Engineer the Essential."
   ]
 }

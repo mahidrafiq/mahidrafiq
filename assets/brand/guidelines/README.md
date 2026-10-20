@@ -1,19 +1,21 @@
-# Mahid Rafiq — Brand Usage
+# Mahid Rafiq — Brand Guidelines
 
-## Identity direction
+## Brand line
 
-A minimal, technology-forward personal identity with a monochrome orbital MR mark and a restrained Voltage Lime accent.
+**Engineer the Essential**
+
+A concise statement of a builder's mindset: focus on real problems, engineer useful solutions, and keep the work purposeful. It is broad enough to grow across technology, science, healthcare, AI, automation, and entrepreneurship.
 
 ## Palette
 
-| Name | Hex | Use |
+| Name | Hex | Role |
 |---|---|---|
-| Deep Space | #0B0F12 | Primary dark background |
-| Forest Green | #0F4D3A | Support colour; use sparingly |
-| Voltage Lime | #A6FF3D | Highlights and separators |
-| Technical Slate | #687280 | Secondary UI and neutral elements |
-| Soft Ivory | #F5F7F2 | Light background and text on dark |
-| Silver | #C7CCD3 | Logo finish and metallic applications |
+| Deep Space | `#0B0F12` | Primary dark background |
+| Forest Green | `#0F4D3A` | Restrained support colour |
+| Voltage Lime | `#A6FF3D` | Energy, highlights, small accents |
+| Technical Slate | `#687280` | Secondary UI and neutral elements |
+| Soft Ivory | `#F5F7F2` | Light background and reversed text |
+| Silver | `#C7CCD3` | Monochrome logo and metallic applications |
 
 ## Typography
 
@@ -22,10 +24,17 @@ A minimal, technology-forward personal identity with a monochrome orbital MR mar
 
 ## Which version should I use?
 
-- Website header / professional banners: horizontal logo.
-- GitHub avatar / profile graphics: MR app icon.
+- Portfolio header / professional banner: primary horizontal logo.
+- GitHub avatar / social profile: MR app icon or lettermark.
 - Tiny browser tab icon: simplified favicon.
-- Light surfaces: light-background logo; dark surfaces: dark-background logo.
-- Print: use a one-colour mark and check stroke reproduction with the printer.
+- Light surfaces: dark mark; dark surfaces: white/silver mark.
+- Print: use a one-colour mark and check minimum stroke reproduction with the printer.
 
-Use Voltage Lime sparingly. Do not stretch, rotate, or add shadows to the logo.
+## Usage rules
+
+- Keep the orbital MR mark and tagline as distinct levels of the lockup; do not let the orbit cross into the text area.
+- Preserve clear space around the mark.
+- Do not stretch, rotate, add shadows, or place a logo on a low-contrast surface.
+- Keep Voltage Lime as a restrained accent rather than a dominant logo fill.
+- Use the full orbital mark for large applications; switch to the simplified favicon at 16–32 px.
+- Use the tagline exactly as **Engineer the Essential**; visual lockups may set it in uppercase.

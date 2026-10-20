@@ -69,6 +69,8 @@ Experimenting with ideas that combine software, hardware and real-world applicat
 
 ## 🎨 Brand Assets
 
+**Brand line:** Engineer the Essential.
+
 My personal brand logo variants and visual identity files are organised in [assets/brand/](assets/brand/). Start with the [primary horizontal logo](assets/brand/svg/primary_horizontal_dark.svg), [app icon](assets/brand/svg/app_icon_dark.svg), or [brand guidelines](assets/brand/guidelines/README.md).
 
 ---
