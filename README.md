@@ -1,69 +1,90 @@
-# Mahid Rafiq Portfolio — v10
+# Hi, I'm Mahid Rafiq 👋
 
-A static, data-driven portfolio with no build step and no runtime framework dependency.
+### I build practical technology at the intersection of AI, software, automation & real-world problems.
 
-## Structure
+I'm a **B.Pharm student and technology enthusiast** exploring how software and emerging technologies can be used to build useful solutions.
 
-```text
-index.html        page shell, SEO metadata, navigation and resilience fallback
-css/style.css     themes, responsive layout, motion and accessibility styles
-js/data.js        portfolio content and project data
-js/app.js         components, router, charts, demos and shell interactions
-assets/           portrait + brand assets, favicons and social preview
-robots.txt        crawler directives
-sitemap.xml       public-site sitemap
-```
+I like turning ideas into working projects — from software and automation to hardware experiments and technology × healthcare applications.
 
-## Content model
+---
 
-Most portfolio content lives in `js/data.js`.
+## 🚀 What I'm Exploring
 
-- **Projects:** add to `projects`
-- **Skills / interests:** add to `skills`
-- **Education / experience / achievements:** add to `timeline`
-- **Certifications / publications:** add timeline entries with the corresponding `kind`
-- **Public CV:** set `profile.cv` to a public PDF path
-- **Email:** set `profile.email` only if you want it publicly displayed
-- **Newsletter:** enable it only after adding a real endpoint
+- 🤖 Artificial Intelligence & AI-powered applications
+- 💻 Software development
+- ⚙️ Automation & intelligent tools
+- 🧬 Technology × Healthcare
+- 🔌 Arduino & hardware projects
+- 📊 Data, productivity & digital tools
 
-## Routes
+---
 
-Hash routes are used so the site works on GitHub Pages without server-side rewrites:
+## 🛠️ Tech Stack
 
-- `#top` / home
-- `#work`
-- `#lab`
-- `#github`
-- `#skills`
-- `#about`
-- `#journey`
-- `#milestones`
-- `#focus`
-- `#brand`
-- `#contact`
-- `#project-<id>`
+**Languages & Web**
 
-## Hardening included in v10
+Python · JavaScript · HTML · CSS
 
-- Added canonical URL, robots directives and richer Open Graph / Twitter metadata.
-- Added JSON-LD `Person` + `WebSite` structured data.
-- Added Google Fonts preconnect hints.
-- Added a no-JavaScript fallback with direct LinkedIn / GitHub access.
-- Skip link now moves focus to `<main>` in JavaScript without changing the URL hash, so it no longer sends About/Brand visitors back to the home page.
-- Improved command-palette accessibility state (`aria-controls` / `aria-expanded`).
-- Improved mobile menu accessibility by changing its label between Open/Close.
-- Added a real clipboard fallback for browsers/contexts where `navigator.clipboard` is unavailable.
-- Added forced-colors accessibility safeguards.
-- Refreshed this README to document the current v10 structure.
+**Hardware**
 
-## Publish
+Arduino
 
-For GitHub Pages, deploy the contents of this folder from the repository root.
+**Tools & Productivity**
 
-Recommended repository:
+Git · GitHub · Microsoft Excel · Microsoft PowerPoint
 
-`mahidrafiq/mahidrafiq` (project Pages site)
+---
 
-The canonical public URL used by the SEO metadata is:
+## 🔨 What I'm Building
 
-`https://mahidrafiq.github.io/mahidrafiq/`
+My goal is to create projects that are:
+
+> **Useful → Practical → Well-built → Worth sharing**
+
+I'm currently building my portfolio around **AI, software, automation and applied technology**.
+
+---
+
+## 🧪 Areas of Interest
+
+**Artificial Intelligence**  
+Exploring AI tools, applications and practical implementations.
+
+**Automation**  
+Building systems that reduce repetitive work and solve everyday problems.
+
+**Health Technology**  
+Exploring how software and technology can complement pharmaceutical and healthcare knowledge.
+
+**Innovation**  
+Experimenting with ideas that combine software, hardware and real-world applications.
+
+---
+
+## 📌 Featured Projects
+
+🚧 **Building in public — projects coming soon.**
+
+---
+
+## 🎨 Brand Assets
+
+**Brand line:** Engineer the Essential.
+
+My personal brand logo variants and visual identity files are organised in [assets/brand/](assets/brand/). Start with the [primary horizontal logo](assets/brand/svg/primary_horizontal_dark.svg), [app icon](assets/brand/svg/app_icon_dark.svg), or [brand guidelines](assets/brand/guidelines/README.md).
+
+---
+
+## 🎯 Long-Term Goal
+
+To combine **domain knowledge + technology + creativity** to build solutions that solve real problems.
+
+---
+
+## 🤝 Connect
+
+I'm interested in **AI, software, automation, healthcare technology and innovation**.
+
+Feel free to explore my repositories and connect with me.
+
+**GitHub:** [@mahidrafiq](https://github.com/mahidrafiq)
