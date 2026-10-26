@@ -15,7 +15,7 @@ window.PORTFOLIO = {
     role: "B.Pharm student · Junior software developer · Research & innovation",
     location: "Anantapur, Andhra Pradesh, India",
     origin: "Originally from Jammu & Kashmir",
-    portrait: "assets/mahid-portrait.jpg",
+    portrait: "https://avatars.githubusercontent.com/u/102657264?v=4",
     portraitAlt: "Portrait of Mahid Rafiq in a white lab coat",
     lede: "B.Pharm student and junior software developer combining pharmacy knowledge with Python, R and web development to organise, document and analyse scientific and innovation-related information.",
     exploring: ["pharmacy × technology", "bio-resource knowledge", "grassroots innovation", "digital knowledge systems"],
@@ -347,11 +347,11 @@ window.PORTFOLIO = {
     ],
     downloads: [
       { label: "Primary lockup · dark",  files: [{ type: "SVG", href: "assets/brand/primary_horizontal_dark.svg" },  { type: "PNG", href: "assets/brand/primary_horizontal_dark.png" }] },
-      { label: "Primary lockup · light", files: [{ type: "SVG", href: "assets/brand/primary_horizontal_light.svg" }, { type: "PNG", href: "assets/brand/primary_horizontal_light.png" }] },
+      { label: "Primary lockup · light", files: [{ type: "SVG", href: "assets/brand/primary_horizontal_light.svg" }] },
       { label: "MR mark · white",        files: [{ type: "SVG", href: "assets/brand/lettermark_white.svg" }] },
       { label: "MR mark · black",        files: [{ type: "SVG", href: "assets/brand/lettermark_black.svg" }] },
       { label: "Orbit motif · lime",     files: [{ type: "SVG", href: "assets/brand/symbol_orbit_lime.svg" }] },
-      { label: "App icon · dark",        files: [{ type: "SVG", href: "assets/brand/app_icon_dark.svg" }, { type: "PNG", href: "assets/brand/app_icon_dark_512.png" }] },
+      { label: "App icon · dark",        files: [{ type: "SVG", href: "assets/brand/app_icon_dark.svg" }] },
       { label: "App icon · light",       files: [{ type: "SVG", href: "assets/brand/app_icon_light.svg" }] },
       { label: "Social avatar",          files: [{ type: "PNG", href: "assets/brand/social_avatar_dark_1024.png" }] },
       { label: "Social preview 1200×630", files: [{ type: "PNG", href: "assets/brand/og-image.png" }] }
