@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mahidrafiq.github.io/mahidrafiq/sitemap.xml
